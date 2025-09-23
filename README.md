@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Test Automation Frameworks**
-- 🌱 Learning **Cypress | Docker | CI/CD**
+- 🌱 Learning **Playwright | Docker | CI/CD**
 - 💬 Ask me about **SQA, API Testing, Performance Testing, Selenium, JMeter**
 - 📫 Reach me at **sabbir722722@gmail.com**
 - ⚡ Fun fact: *I break software so users don’t have to 😉*
