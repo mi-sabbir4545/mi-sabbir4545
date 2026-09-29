@@ -109,6 +109,7 @@ HRMS & Payroll · Fintech · Healthcare · EdTech · Transport Systems · Wareho
 <br/>
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright CLI](https://img.shields.io/badge/Playwright%20CLI-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
@@ -152,10 +153,13 @@ HRMS & Payroll · Fintech · Healthcare · EdTech · Transport Systems · Wareho
 </details>
 
 <details>
-<summary><b>AI, CI/CD & reporting</b></summary>
+<summary><b>AI-assisted testing, CI/CD & reporting</b></summary>
 <br/>
 
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Command Code](https://img.shields.io/badge/Command%20Code-1F2937?style=flat-square)
+![Playwright MCP](https://img.shields.io/badge/Playwright%20MCP-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Google ARTEMIS](https://img.shields.io/badge/Google%20ARTEMIS-Android%20via%20MCP-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
