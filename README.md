@@ -20,12 +20,12 @@
 
 ### 👋 Hi, I'm Moinul
 
-I'm a **QA Automation Engineer** with nearly six years of manual and automated testing across web, mobile (iOS/Android) and APIs — HRMS, e-commerce, logistics and SaaS products. I've built a UI automation framework from scratch, set up QA processes for product teams, and reviewed **110+ apps** for the Mailchimp Partner Program.
+I'm a **QA Automation Engineer** with nearly six years of manual and automated testing across web, mobile (Android & iOS) and APIs — HRMS, fintech, healthcare, EdTech, e-commerce, logistics and transport products. I've built a UI automation framework from scratch, set up QA processes for product teams, and reviewed **110+ apps** for the Mailchimp Partner Program.
 
-These days I'm doing two things: bringing **AI into everyday testing** with Claude Code, and growing into **security testing and penetration testing** with Burp Suite and the OWASP Top 10.
+I also do hands-on **security and penetration testing** — SQL injection, XSS, IDOR and JWT flaws with Burp Suite, OWASP ZAP, Nmap and Kali Linux — and bring **AI into everyday testing** with Claude Code.
 
 - 🏢 QA Engineer (Automation) at **BYSL Global Technology Group** since 2023
-- 🔐 Working through a cyber security course — next stop **eJPT**
+- 📚 Currently learning: **ISTQB CTFL**, a cyber security course, and labs on TryHackMe, HackTheBox and PortSwigger Academy — next stop **eJPT**
 - ⚡ Recently: [k6 load tests](https://github.com/mi-sabbir4545/K6-Performance-testing) with Grafana and emailed CI reports
 - 🌐 Recently: a [portfolio](https://moinulislam.pages.dev) that only deploys when its Playwright, axe and Lighthouse checks pass
 
@@ -42,16 +42,22 @@ These days I'm doing two things: bringing **AI into everyday testing** with Clau
     </td>
     <td width="33%" valign="top">
       <b>📝 Manual & exploratory</b><br/><br/>
-      Test strategy, requirement breakdowns, RTMs, test cases, regression, smoke, UAT and cross-browser / cross-device checks.<br/><br/>
+      Boundary value, equivalence partitioning, decision tables and state transition; exploratory, accessibility (WCAG) and localization testing; test plans, metrics and defect triage.<br/><br/>
       <sub>Jira · ClickUp · Agile / Scrum</sub>
     </td>
     <td width="33%" valign="top">
       <b>🔐 Security testing</b><br/><br/>
-      Looking at the products I test with an attacker's eye: authentication, access control and the OWASP Top 10.<br/><br/>
-      <sub>Burp Suite · OWASP Top 10 · Linux</sub>
+      SQL injection, XSS, IDOR / broken access control, JWT and session testing against the OWASP Top 10 and API Top 10; bug bounty reports.<br/><br/>
+      <sub>Burp Suite · OWASP ZAP · Nmap · Kali Linux</sub>
     </td>
   </tr>
 </table>
+
+---
+
+### 🏷️ Domains
+
+HRMS & Payroll · Fintech · Healthcare · EdTech · Transport Systems · Warehouse & Procurement · Logistics · E-commerce & Payment Gateways · Supply Chain & BOM · Email Marketing SaaS · Digital Advertising · Mobile Apps (Android & iOS)
 
 ---
 
@@ -85,7 +91,7 @@ These days I'm doing two things: bringing **AI into everyday testing** with Clau
 
 | Step | Certification | Status |
 |---|---|---|
-| 1 | Cyber Security Course | ![In progress](https://img.shields.io/badge/in%20progress-8a6512?style=flat-square) |
+| 1 | Cyber Security Course · ISTQB CTFL | ![In progress](https://img.shields.io/badge/in%20progress-8a6512?style=flat-square) |
 | 2 | **eJPT** — Junior Penetration Tester | ![Next](https://img.shields.io/badge/next-33607f?style=flat-square) |
 | 3 | **BSCP** — Burp Suite Certified Practitioner | ![Planned](https://img.shields.io/badge/planned-5b5347?style=flat-square) |
 | 4 | **OSCP** — Offensive Security Certified Professional | ![Long term](https://img.shields.io/badge/long%20term-5b5347?style=flat-square) |
@@ -113,6 +119,8 @@ These days I'm doing two things: bringing **AI into everyday testing** with Clau
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![axe-core](https://img.shields.io/badge/axe--core-663399?style=flat-square)
+![Selenium Grid](https://img.shields.io/badge/Selenium%20Grid-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-E66F32?style=flat-square)
 </details>
 
 <details>
@@ -122,6 +130,9 @@ These days I'm doing two things: bringing **AI into everyday testing** with Clau
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4CAF50?style=flat-square)
 ![Karate](https://img.shields.io/badge/Karate%20DSL-3A8E5C?style=flat-square)
+![Pact](https://img.shields.io/badge/Pact-contract%20testing-4B5563?style=flat-square)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -132,7 +143,11 @@ These days I'm doing two things: bringing **AI into everyday testing** with Clau
 <br/>
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=zap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![OWASP API](https://img.shields.io/badge/OWASP%20API%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 </details>
 
